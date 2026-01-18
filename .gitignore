@@ -9,3 +9,8 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# Node / Playwright
+node_modules/
+playwright-report/
+test-results/

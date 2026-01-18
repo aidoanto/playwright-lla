@@ -1,0 +1,25 @@
+{
+  "name": "playwright-lla",
+  "version": "1.0.0",
+  "description": "Playwright checks for Lifeline search health.",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidoanto/playwright-lla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aidoanto/playwright-lla/issues"
+  },
+  "homepage": "https://github.com/aidoanto/playwright-lla#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0"
+  }
+}
